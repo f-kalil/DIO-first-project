@@ -1,0 +1,15 @@
+C:\Workspace\DIO-first-project\projects\SeriesCatalog\obj\Debug\net6.0\SeriesCatalog.csproj.AssemblyReference.cache
+C:\Workspace\DIO-first-project\projects\SeriesCatalog\obj\Debug\net6.0\SeriesCatalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\DIO-first-project\projects\SeriesCatalog\obj\Debug\net6.0\SeriesCatalog.AssemblyInfoInputs.cache
+C:\Workspace\DIO-first-project\projects\SeriesCatalog\obj\Debug\net6.0\SeriesCatalog.AssemblyInfo.cs
+C:\Workspace\DIO-first-project\projects\SeriesCatalog\obj\Debug\net6.0\SeriesCatalog.csproj.CoreCompileInputs.cache
+C:\Workspace\DIO-first-project\projects\SeriesCatalog\bin\Debug\net6.0\SeriesCatalog.exe
+C:\Workspace\DIO-first-project\projects\SeriesCatalog\bin\Debug\net6.0\SeriesCatalog.deps.json
+C:\Workspace\DIO-first-project\projects\SeriesCatalog\bin\Debug\net6.0\SeriesCatalog.runtimeconfig.json
+C:\Workspace\DIO-first-project\projects\SeriesCatalog\bin\Debug\net6.0\SeriesCatalog.dll
+C:\Workspace\DIO-first-project\projects\SeriesCatalog\bin\Debug\net6.0\ref\SeriesCatalog.dll
+C:\Workspace\DIO-first-project\projects\SeriesCatalog\bin\Debug\net6.0\SeriesCatalog.pdb
+C:\Workspace\DIO-first-project\projects\SeriesCatalog\obj\Debug\net6.0\SeriesCatalog.dll
+C:\Workspace\DIO-first-project\projects\SeriesCatalog\obj\Debug\net6.0\ref\SeriesCatalog.dll
+C:\Workspace\DIO-first-project\projects\SeriesCatalog\obj\Debug\net6.0\SeriesCatalog.pdb
+C:\Workspace\DIO-first-project\projects\SeriesCatalog\obj\Debug\net6.0\SeriesCatalog.genruntimeconfig.cache
