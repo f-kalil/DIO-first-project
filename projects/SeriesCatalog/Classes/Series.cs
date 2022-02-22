@@ -1,4 +1,4 @@
-namespace SeriesCatalog
+namespace SeriesCatalog.Classes
 {
     public class Series: Base
     {
@@ -7,25 +7,28 @@ namespace SeriesCatalog
         public double Rating { get; set; }
         private bool IsDeleted { get; set; }
 
-        public Series(double Rating, string Title, string Genre)
+        public Series(int id, double Rating, string Title, string Genre)
         {
+            this.Id = id;
             this.Rating = Rating;
             this.Title = Title;
             this.Genre = Genre;
-            this.IsDeleted = IsDeleted;
+            this.IsDeleted = false;
         }
 
         public string Stringify()
         {
             string text = @$"
-            Gênero:     Título:     Avaliação:
-            {this.Genre}     {this.Title}     {this.Rating}";
-            return text;
-        }
+            Id: {this.Id}
 
-        public int GetId()
-        {
-            return this.Id;
+            Título: {this.Title}
+
+            Gênero: {this.Genre}
+
+            Avaliação: {this.Rating}
+            ";
+
+            return text;
         }
 
         public bool GetDeletedBool()

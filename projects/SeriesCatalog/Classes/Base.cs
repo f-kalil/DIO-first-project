@@ -1,4 +1,4 @@
-namespace SeriesCatalog
+namespace SeriesCatalog.Classes
 {
     public abstract class Base
     {
